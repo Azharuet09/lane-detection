@@ -1,4 +1,4 @@
-# road-lane-detection
+# lane-detection
 
 Preliminary attempt at automatic lane detection/following algorithm using Python and OpenCV. 
 
@@ -8,7 +8,8 @@ and
 https://github.com/naokishibuya/car-finding-lane-lines
 
 Code processes testvideo2.mp4 file.
-
+Regard:
+Azhar Mahmood
 
 
 
